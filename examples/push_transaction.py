@@ -6,9 +6,9 @@ payload = [
         {
             'args': {
                 "from": "eosio",  # sender
-                "to": "silvercondor",  # receiver
+                "to": "bob123451234",  # receiver
                 "quantity": '1.0000 EOS',  # In EOS
-                "memo": "EOS to the moon",
+                "memo": "EOS to the moon. Additional string to make this be a very long memo to ensure.aljskdflaskdjflasdkjflaksdjflaskdjflasdkjflaskdjflaskdjflaskdjflasdkjflasdkjf",
             },
             "account": "eosio.token",
             "name": "transfer",
